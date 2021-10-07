@@ -4,7 +4,7 @@
 
   ## Description
 
-  this is a readme generator.
+  This is a readme generator.
 
   ## Table of Contents
 
