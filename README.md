@@ -5,4 +5,4 @@ The task was to create a console application that would dynamically generate a r
 
 Link: [Walkthrough](https://youtu.be/CdL3NP8npws)
 
-*the sample readme file is in develop/README.md
+*the sample readme file is in Develop/README.md
